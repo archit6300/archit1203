@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Archit Srivastava
-- 👀 I’m interested in becoming a software developer.
-- 🌱 I’m currently learning Python,C++,CSS,JS.
+- 👀 ML , WebD Enthusiast.
+- 🌱  President: Mycin (technovation club @KIET) | Student Placement Coordinator | Sophomore
 - 💞️ I’m looking to collaborate on almost everything.
 - 📫 How to reach me:
 -       Connect on LinkedIn https://www.linkedin.com/in/archit1203/
--       Follow on https://www.instagram.com/archit1203
+-       Email me @: architbiz1203@gmail.com
 
 <!---
 archit1203/archit1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
