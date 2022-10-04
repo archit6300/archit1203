@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Archit Srivastava
 - 👀 ML , WebD Enthusiast.
-- 🌱  President: Mycin (technovation club @KIET) | Student Placement Coordinator | Sophomore
+- 🌱  President: MYCIN (Technovation club @KIET) | Student Placement Coordinator | PreFinal Student
 - 💞️ I’m looking to collaborate on almost everything.
 - 📫 How to reach me:
--       Connect on LinkedIn https://www.linkedin.com/in/archit1203/
+-       Connect on LinkedIn: https://www.linkedin.com/in/archit1203/
 -       Email me @: architbiz1203@gmail.com
 
 <!---
